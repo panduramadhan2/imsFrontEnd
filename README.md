@@ -9,8 +9,3 @@ jalankan script
 ```bash
 npm run start
 ```
-
-buat database mysql
-```bash
-npm run start
-```
